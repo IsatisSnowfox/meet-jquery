@@ -1,12 +1,12 @@
 /*
 
-Isatis/katbiznis
+Isatis/meet-jquery
 
-/gulpfile.js - Gul tasks
+/gulpfile.js - Gulp tasks
 
 coded by Isatis
 
-started at 09/02/2017
+started at 13/02/2017
 
 */
 
